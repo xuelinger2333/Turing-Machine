@@ -1,0 +1,82 @@
+# depslib dependency file v1.0
+1703611789 source:/home/chen/cpp/turing/main.cpp
+	<iostream>
+	<stdio.h>
+	<unistd.h>
+	<string>
+	<fstream>
+	"TuringMachineAdapter.h"
+
+1703607886 source:/home/chen/cpp/turing/src/TuringMachine.cpp
+	"TuringMachine.h"
+
+1703597132 /home/chen/cpp/turing/include/TuringMachine.h
+	<iostream>
+	<string>
+	<vector>
+	<sstream>
+	"PaperTape.h"
+	<iomanip>
+
+1703612034 source:/home/chen/cpp/turing/src/TuringMachineAdapter.cpp
+	"TuringMachineAdapter.h"
+
+1703601728 /home/chen/cpp/turing/include/TuringMachineAdapter.h
+	<iostream>
+	<string>
+	<vector>
+	<sstream>
+	<map>
+	<set>
+	<stdio.h>
+	<errno.h>
+	"TuringMachine.h"
+
+1703594411 /home/chen/cpp/turing/include/PaperTape.h
+	<iostream>
+	<vector>
+
+1703596582 source:/home/chen/cpp/turing/src/PaperTape.cpp
+	"PaperTape.h"
+
+1703596582 source:/home/chen/Desktop/cpp/turing-project/src/PaperTape.cpp
+	"PaperTape.h"
+
+1703594411 /home/chen/Desktop/cpp/turing-project/include/PaperTape.h
+	<iostream>
+	<vector>
+
+1703607886 source:/home/chen/Desktop/cpp/turing-project/src/TuringMachine.cpp
+	"TuringMachine.h"
+
+1703597132 /home/chen/Desktop/cpp/turing-project/include/TuringMachine.h
+	<iostream>
+	<string>
+	<vector>
+	<sstream>
+	"PaperTape.h"
+	<iomanip>
+
+1703612034 source:/home/chen/Desktop/cpp/turing-project/src/TuringMachineAdapter.cpp
+	"TuringMachineAdapter.h"
+
+1703601728 /home/chen/Desktop/cpp/turing-project/include/TuringMachineAdapter.h
+	<iostream>
+	<string>
+	<vector>
+	<sstream>
+	<map>
+	<set>
+	<stdio.h>
+	<errno.h>
+	"TuringMachine.h"
+
+1703863206 source:/home/chen/Desktop/cpp/turing-project/main.cpp
+	<iostream>
+	<stdio.h>
+	<unistd.h>
+	<getopt.h>
+	<string>
+	<fstream>
+	"TuringMachineAdapter.h"
+
